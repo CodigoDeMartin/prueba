@@ -15,3 +15,6 @@ git clone linkDelrepositorio ------------->clona los archivos que tenemoe en git
 git branch nombreDelaRama ------------> crea una rama nueva.
 git branch -------------->vemoes las ramas y en que ramas estamos trabajando
 git checkout nombreDelaRama -------->nos movemos a la rama que queremos guardar archivos
+git marge nombreDeLaRamaAFusionar------------>fusiona los archivos guardados
+git branch -d nombreDeLaRama-------->borra una rama que hemos creado.
+git commit -am "nota descriptiva" ------> para relizar un commit saltando add 
